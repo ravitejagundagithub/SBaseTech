@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 My Project
 ========
 
@@ -28,3 +29,7 @@ The CRX host and port can be specified on the command line with:
 mvn -Dcrx.host=otherhost -Dcrx.port=5502 <goals>
 
 
+=======
+# sbase
+my project from adobe documentation for developing cq 5.6.1 with eclipse
+>>>>>>> 1f6c8df44e3b50c3ac73c5ea18ef1d4d8d84151f
